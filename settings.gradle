@@ -1,0 +1,4 @@
+include ':app2'
+include ':commonDuration'
+include ':app'
+rootProject.name = "MultiDurationApp"

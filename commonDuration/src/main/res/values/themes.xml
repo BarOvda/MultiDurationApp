@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.MultiDurationApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MultiDurationApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MultiDurationApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
